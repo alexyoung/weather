@@ -1,0 +1,10 @@
+{ "name": "weather"
+, "description": "bayesian weather analysis"
+, "version": "0.0.1"
+, "author": "Alex R. Young <alex@alexyoung.org>"
+, "engines": { "node": ">= 0.4.0" }
+, "devDependencies": {
+    "brain": "0.3.5"
+  }
+}
+
